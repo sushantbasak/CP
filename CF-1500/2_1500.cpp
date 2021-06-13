@@ -1,5 +1,6 @@
 /******************************************
 * AUTHOR : kevin_007 *
+/ https://codeforces.com/contest/1526/problem/C2
 ******************************************/
 #include <bits/stdc++.h>
 using namespace std;
